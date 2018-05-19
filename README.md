@@ -1,1 +1,1 @@
-# cnn_skin_cancer_classify
+# Skin cancer classifier using deep convolution neural network Keras implementation 
